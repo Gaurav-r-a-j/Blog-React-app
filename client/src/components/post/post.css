@@ -1,6 +1,8 @@
 .post{
     margin: 0 25px 50px 25px;
     width: 450px;
+    min-width: 300px;
+    flex: 1;
 }
 
 .postImage{
